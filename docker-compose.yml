@@ -1,0 +1,8 @@
+version: "2"
+services:
+ qisdatascraper:
+    restart: always
+    image: qisdatascraper:v0.1
+    container_name: qisbot
+    volumes:
+      - ~/Projekte/qisdatacsraper
