@@ -1,3 +1,5 @@
+[ deprecated for the new qis version ]
+
 # qisdatascraper
 
 Simple Python script to check for new grades at the qis portal
